@@ -80,18 +80,18 @@ clanthai/
 - Minificar CSS/JS (opcional para produção)
 - Configurar cache no servidor
 
-## 🔧 Comandos Úteis
+## 🔧 Como Usar
 
 ### Testar Localmente
 ```bash
-# Python
-python -m http.server 8000
+# Método mais simples - abrir diretamente no navegador
+# Clique duplo no arquivo index.html
+# OU
+# Clique direito > Abrir com > Navegador de sua escolha
 
-# Node.js
-npx serve .
-
-# PHP
-php -S localhost:8000
+# Opcional - Servidor local (apenas se necessário)
+# Python: python -m http.server 8000
+# Node.js: npx serve .
 ```
 
 ### Comprimir para Envio

@@ -1,0 +1,31 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="300" height="300" fill="#f0f0f0"/>
+  
+  <!-- Fighter silhouette -->
+  <g transform="translate(150,150)">
+    <!-- Head -->
+    <circle cx="0" cy="-80" r="25" fill="#ff6b35" opacity="0.8"/>
+    
+    <!-- Body -->
+    <rect x="-20" y="-55" width="40" height="60" rx="5" fill="#ff6b35" opacity="0.8"/>
+    
+    <!-- Arms in fighting stance -->
+    <rect x="-35" y="-50" width="15" height="35" rx="7" fill="#ff6b35" opacity="0.8" transform="rotate(-15 -27.5 -32.5)"/>
+    <rect x="20" y="-50" width="15" height="35" rx="7" fill="#ff6b35" opacity="0.8" transform="rotate(15 27.5 -32.5)"/>
+    
+    <!-- Legs -->
+    <rect x="-15" y="5" width="12" height="50" rx="6" fill="#ff6b35" opacity="0.8"/>
+    <rect x="3" y="5" width="12" height="50" rx="6" fill="#ff6b35" opacity="0.8"/>
+    
+    <!-- Boxing gloves -->
+    <circle cx="-40" cy="-35" r="8" fill="#d32f2f"/>
+    <circle cx="40" cy="-35" r="8" fill="#d32f2f"/>
+    
+    <!-- Muay Thai shorts pattern -->
+    <rect x="-18" y="-10" width="36" height="20" rx="3" fill="#1976d2" opacity="0.3"/>
+  </g>
+  
+  <!-- Name label -->
+  <text x="150" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">ALAN</text>
+</svg>

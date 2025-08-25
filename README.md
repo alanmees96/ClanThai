@@ -92,7 +92,12 @@ ClanThai/
 
 ## 🛠️ Como Usar
 
-1. **Servidor Local**:
+1. **Método Simples** (Recomendado):
+   - Clique duplo no arquivo `index.html`
+   - OU clique direito > "Abrir com" > Navegador
+   - Site abrirá diretamente no navegador
+
+2. **Servidor Local** (Opcional):
    ```bash
    python -m http.server 8000
    ```

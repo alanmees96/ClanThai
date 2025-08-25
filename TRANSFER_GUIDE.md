@@ -71,6 +71,12 @@ ClanThai/
 
 ## 🌐 Próximos Passos
 
+### Para Uso Local (Mais Simples)
+1. **Clique duplo no `index.html`** - Site abre no navegador
+2. **Teste todas as funcionalidades**
+3. **Pronto para usar!**
+
+### Para Publicação Online
 1. **Transferir arquivos** para servidor/hospedagem
 2. **Configurar domínio** (se necessário)
 3. **Testar site online**

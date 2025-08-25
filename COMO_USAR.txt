@@ -1,0 +1,52 @@
+🚀 CLAN THAI - COMO USAR O SITE
+
+═══════════════════════════════════════
+
+✅ MÉTODO MAIS SIMPLES:
+
+1. Clique duplo no arquivo "index.html"
+2. O site abrirá automaticamente no seu navegador
+3. Pronto! Não precisa instalar nada.
+
+═══════════════════════════════════════
+
+📁 ARQUIVOS IMPORTANTES:
+
+• index.html     → Página principal (clique duplo para abrir)
+• styles.css     → Estilos do site
+• script.js      → Funcionalidades interativas
+• Fotos/         → Imagens dos professores e logo
+
+═══════════════════════════════════════
+
+🌐 PARA PUBLICAR NA INTERNET:
+
+• Leia o arquivo "DEPLOY.md" para instruções completas
+• Opções gratuitas: GitHub Pages, Netlify, Vercel
+• Ou faça upload para qualquer hospedagem
+
+═══════════════════════════════════════
+
+✨ FUNCIONALIDADES DO SITE:
+
+• Menu responsivo (funciona no celular)
+• Carrossel de imagens
+• Seção de professores
+• Grade de horários
+• Informações dos lutadores
+• Links diretos para WhatsApp
+• Design moderno e profissional
+
+═══════════════════════════════════════
+
+❓ DÚVIDAS?
+
+• Consulte README.md para documentação completa
+• Consulte DEPLOY.md para publicação
+• Consulte TRANSFER_GUIDE.md para transferência
+
+═══════════════════════════════════════
+
+🎯 RESUMO: Clique duplo no index.html e pronto!
+
+Site criado em Janeiro 2025 ✨
